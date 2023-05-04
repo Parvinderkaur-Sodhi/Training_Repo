@@ -9,9 +9,7 @@ Some changes by MEE !!
 
 Extras deleted n this line is added.
 
-<<<<<<< Updated upstream
 Lets, Complete it.
-=======
+
 New line!
 
->>>>>>> Stashed changes
