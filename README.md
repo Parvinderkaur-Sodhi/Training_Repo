@@ -7,9 +7,7 @@ This Repo Will consist of all the files and Codes that I have worked with during
 
 # Third Commit Line
 
-<<<<<<< Updated upstream
 #Stash 1 Comment
 
-=======
 #Second stash commit
->>>>>>> Stashed changes
+
